@@ -55,3 +55,24 @@ The repository covers a wide range of topics, including:
 ---
 
 ## Repository Structure 📂
+
+---
+
+## Tools and Libraries 🛠️
+
+This repository utilizes the following tools and libraries:
+- **Programming Languages:** Python, R
+- **Data Analysis:** NumPy, pandas
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Machine Learning:** scikit-learn, XGBoost, LightGBM
+- **Deep Learning:** TensorFlow, PyTorch
+- **Deployment:** Flask, FastAPI, Docker
+
+---
+
+## Getting Started 🚧
+
+To get started with this repository:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your_username/data-science-repo.git
